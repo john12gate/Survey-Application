@@ -1,6 +1,8 @@
 
-# Survey Application README.md File
-
+<p align="center">
+  <b>Survey Application</b>
+</p>
+<br/>
 ## Introduction
 
 The survey application revolutionizes survey management with its advanced features, including customizable survey templates, real-time analytics, and dynamic question branching. It empowers researchers to conduct surveys with precision, ensuring reliable and insightful data collection. With unparalleled scalability and adaptability, the survey application sets a new standard for excellence in survey technology. Whether for academic research, market analysis, or customer feedback, the survey application delivers comprehensive tools for managing all aspects of the survey lifecycle, making it a game-changer in the industry.
