@@ -17,9 +17,8 @@ The SurveyApp represents a quantum leap forward in survey technology, combining 
 - **Unprecedented Scalability:** Designed to accommodate the evolving needs of our users, the SurveyApp offers unparalleled scalability and adaptability.
 - **Enhanced User Experience:** Through meticulous user interface design and intuitive user experience flows, the SurveyApp ensures that users can effortlessly navigate and utilize its functionalities.
 
-## Core APIs 
 
-# Survey Application
+# Survey Application Core APIs
 
 ## Introduction
 
