@@ -214,13 +214,13 @@ To utilize the SurveyApp, follow these guidelines:
 
 ## Documentation
 
-For detailed documentation and API specifications, please refer to the [SurveyApp Documentation](link-to-documentation).
+For detailed documentation and API specifications, please refer to the 
 
 ## Contributing
 
 We welcome contributions from our esteemed colleagues. To contribute, please follow these steps:
 
-1. Fork the repository.
+1. Fork the repository. https://github.com/john12gate/Survey-Application
 2. Create a new branch: `git checkout -b feature-branch`
 3. Implement innovative features or enhancements.
 4. Ensure code quality: Maintain high standards of code quality and test coverage.
