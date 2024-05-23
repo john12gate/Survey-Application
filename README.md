@@ -1,4 +1,4 @@
-```markdown
+
 # Survey Application README.md File
 
 ## Introduction
@@ -18,7 +18,6 @@ The SurveyApp represents a quantum leap forward in survey technology, combining 
 - **Enhanced User Experience:** Through meticulous user interface design and intuitive user experience flows, the SurveyApp ensures that users can effortlessly navigate and utilize its functionalities.
 
 ## Core APIs 
-
 
 # Survey Application
 
@@ -154,8 +153,6 @@ This module is responsible for handling completed surveys, processing respondent
 
 These endpoints provide basic CRUD operations for managing done surveys, allowing users to interact with the done surveys in the application efficiently.
 
-
-
 # Answer Module
 
 The Answer Module is designed to handle survey responses with precision to derive meaningful insights from survey data.
@@ -196,8 +193,6 @@ The Answer Module is designed to handle survey responses with precision to deriv
     - `id` (path): Possible Answer ID (long).
 
 These endpoints provide basic CRUD operations for managing possible answers, allowing users to interact with the answers in your application efficiently.
-
-
 
 ## Installation
 
