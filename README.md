@@ -234,7 +234,7 @@ In conclusion, the SurveyApp stands as a testament to our unwavering commitment 
 
 Best regards,
 
-John Ali
-DevOps Engineer and Backend Developer
-Nigeria Police Force Microfinance Bank Plc.
+John Ali<br/>
+DevOps Engineer and Backend Developer<br/>
+Nigeria Police Force Microfinance Bank Plc.<br/>
 ```
