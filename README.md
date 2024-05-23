@@ -126,7 +126,7 @@ The Survey Module facilitates the creation, distribution, and analysis of survey
 These endpoints provide basic CRUD operations for managing surveys, allowing users to interact with the surveys in your application efficiently.
 
 
-# Done Survey Controller
+# Done Survey
 
 This module is responsible for handling completed surveys, processing respondent submissions, and archiving survey data for further analysis. This module ensures the integrity and reliability of survey results. From validating survey responses to generating comprehensive reports, this module plays a crucial role in deriving actionable insights from survey data, empowering researchers to make informed decisions based on sound statistical analysis.
 
